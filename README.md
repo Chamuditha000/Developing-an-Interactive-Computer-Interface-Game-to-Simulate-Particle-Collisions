@@ -1,0 +1,2 @@
+# Developing-an-Interactive-Computer-Interface-Game-to-Simulate-Particle-Collisions
+An interactive cross-platform simulation/game of the CERN accelerator complex and CMS detector. Control a particle from Linac-4 to the CMS collision point, experience energy boosts, field interactions, and visualize particle collisions. Built in Unity with Blender 3D models, using real physics concepts for education, research, and engagement.
